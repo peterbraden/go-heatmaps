@@ -1,0 +1,7 @@
+github.com/DATA-DOG/go-sqlmock v1.3.3/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
+github.com/lucasb-eyer/go-colorful v1.0.2 h1:mCMFu6PgSozg9tDNMMK3g18oJBX7oYGrC09mS6CXfO4=
+github.com/lucasb-eyer/go-colorful v1.0.2/go.mod h1:0MS4r+7BZKSJ5mw4/S5MPN+qHFF1fYclkSPilDOKW0s=
+github.com/peterbraden/go-geo v0.0.0-20190930160007-e2ba5cb1caf2 h1:4SQGy9wDynTuc9bS90ws+FTm2/Z5OIYiwTUqCwvOo4M=
+github.com/peterbraden/go-geo v0.0.0-20190930160007-e2ba5cb1caf2/go.mod h1:6A8ZxeOLzJD2Ush67koYZMxRsQvXvPkrQANXgOlHmc8=
+github.com/twpayne/go-polyline v1.0.0 h1:EA8HPg0MNS62R5D2E8B6zyz2TMkmkXVlQaVBVgY3F5A=
+github.com/twpayne/go-polyline v1.0.0/go.mod h1:ICh24bcLYBX8CknfvNPKqoTbe+eg+MX1NPyJmSBo7pU=
