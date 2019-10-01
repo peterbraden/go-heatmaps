@@ -33,7 +33,7 @@ func TestHeatmap(t *testing.T) {
 	var bbox = geo.BBox{N: 36., S: 34, W: 10., E: 12.}
 	var polylines = make([]string, 0)
 
-	for i := 0; i < 1000; i++ {
+	for i := 0; i < 100; i++ {
 		var points = make([][]float64, 0)
 		for p := 0; p < 200; p++ {
 			var point = []float64{
