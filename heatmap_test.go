@@ -35,7 +35,7 @@ func TestHeatmap(t *testing.T) {
 
 	for i := 0; i < 1000; i++ {
 		var points = make([][]float64, 0)
-		for p := 0; p < 100; p++ {
+		for p := 0; p < 200; p++ {
 			var point = []float64{
 				rand.Float64()*(bbox.N-bbox.S) + bbox.S,
 				rand.Float64()*(bbox.E-bbox.W) + bbox.W,
