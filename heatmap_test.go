@@ -44,7 +44,7 @@ func TestHeatmap(t *testing.T) {
 		}
 		polylines = append(polylines, string(polyline.EncodeCoords(points)))
 	}
-	var img = HeatMap(colors, polylines, bbox, 256, 255)
+	var img = HeatMap(colors, polylines, bbox, 256, 0x4)
 
 	out, err := os.Create("./test.png")
 	if err != nil {
